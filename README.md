@@ -27,5 +27,9 @@ The aim of this project was to take my Java skills to the next level. It was a v
 
 ![Brick Breaker](https://github.com/cbm93/brickbreaker/blob/main/brickbreaker.png)
 
+# Demo
+
+![Brick Breaker](https://github.com/cbm93/brickbreaker/blob/main/brickbreaker.gif)
+
 
 
